@@ -5,4 +5,5 @@ De repository bevat:
 * een [Jupyter notebook voor het downloaden van de datasets en preprocessing](./microsubsidies.ipynb),
 * een [Jupyter notebook voor het uitvoeren van een clusteranalyse en presenteren van de resultaten](./clusteranalyse.ipynb),
 * een [CSV-bestand met buurtgegevens](./data/buurten.csv) dat gegenereerd wordt door het eerste Jupyter notebook,
-* een Excel-bestand met een [beschrijving van de kolommen](./data/Kolommen.xlsx) van het CSV-bestand.
+* een Excel-bestand met een [beschrijving van de kolommen](./data/Kolommen.xlsx) van het CSV-bestand,
+* een shape-bestand met buurten met per buurt het cluster (uitkomst clusteranalyse).
